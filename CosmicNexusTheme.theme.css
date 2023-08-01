@@ -59,11 +59,6 @@
   --video-screen-button-foreground-hovor-color: white;
 
   /*
-    Role Title Color
-  */
-  --member-listing-role-color: var(--main-theme-color);
-
-  /*
     Small User Popout
   */
   --small-user-popout-background-image: var(--theme-background-image);
@@ -171,11 +166,12 @@
   --reaction-emoji-border-color: 1px solid transparent;
   --reaction-emoji-hover-background-color: rgba(255, 255, 255, 0.1);
   --reaction-emoji-hover-border-color: rgba(255, 255, 255, 0.2);
+ /*
+    Colums Edit 
+  */
 
-
-  --columns:			3;							
-	
-	--guildsize:		40;							
-	--guildgap:			3;	
+  --columns:			1;			 /*Default 1*/				
+	--guildsize:		50;			 /*Default 50*/					
+	--guildgap:			3;	     /*Default 3*/			
 
 }
