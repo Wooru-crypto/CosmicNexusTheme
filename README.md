@@ -1,7 +1,8 @@
 
 
 <p align="center">
-<img src = "https://raw.githubusercontent.com/Wooru-crypto/CosmicNexusTheme/master/image/preview.jpg">
+<img src = https://github.com/Wooru-crypto/CosmicNexusTheme/blob/main/image/preview.png>
+
 </p>
 
 ## Cosmic Nexus Theme
