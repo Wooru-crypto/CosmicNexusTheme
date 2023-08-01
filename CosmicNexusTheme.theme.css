@@ -59,6 +59,11 @@
   --video-screen-button-foreground-hovor-color: white;
 
   /*
+    Role Title Color
+  */
+  --member-listing-role-color: var(--main-theme-color);
+
+  /*
     Small User Popout
   */
   --small-user-popout-background-image: var(--theme-background-image);
